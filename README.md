@@ -1,1 +1,1 @@
-# products-registration
+![alt text](image.png)
